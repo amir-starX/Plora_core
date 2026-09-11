@@ -1,0 +1,12 @@
+name: TasksPlugin
+version: 1.0.0
+author: YourName
+description: A full CRUD example plugin that reads and writes to the database via Core\Database.
+main: TasksPlugin.php
+class: TasksPlugin\TasksPlugin
+requires:
+  php: ">=8.0"
+dependencies: []
+hooks:
+  - register_routes
+syntax: []

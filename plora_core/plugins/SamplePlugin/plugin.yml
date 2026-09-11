@@ -1,0 +1,16 @@
+name: SamplePlugin
+version: 1.0.0
+author: YourName
+description: A sample plugin demonstrating routes, hooks and custom template syntax.
+main: SamplePlugin.php
+class: SamplePlugin\SamplePlugin
+requires:
+  php: ">=8.0"
+dependencies: []
+hooks:
+  - before_route
+  - after_render
+  - register_routes
+syntax:
+  - "@@hello"
+  - "@cache"
