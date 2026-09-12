@@ -2,8 +2,6 @@
 
 ##databasehelper
 
-
 https://github.com/amir-starX/databasehelper
-
 
 کمک در امور دیتا بیس
