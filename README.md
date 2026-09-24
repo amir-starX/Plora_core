@@ -118,3 +118,7 @@ $app->addMiddleware(function ($request, $response) {
 - برای شناخت کامل معماری هسته: `FRAMEWORK.md`
 - برای ساخت پلاگین جدید:`PLUGIN_GUIDE.md`
 - برای دیدن پلاگین های نوشته شده `plugins.md`
+
+## راه های ارتباطی با من
+
+- در پروژه معرفی من
